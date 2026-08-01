@@ -1,3 +1,4 @@
+<img width="1348" height="737" alt="Screenshot 2026-08-01 134417" src="https://github.com/user-attachments/assets/192240ad-1fb5-43ba-bf89-dc51b58a6152" />
 # Consumer Purchase Pattern Analysis
 
 An end-to-end analysis of retail consumer shopping behavior — combining SQL-based data exploration, Python EDA, and an interactive Power BI dashboard — to help a retail company understand what drives customer purchases, engagement, and loyalty.
